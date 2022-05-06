@@ -158,8 +158,6 @@ else {
 
 <?php include('footer.php');?>
 
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
 
 <link rel="stylesheet" href="popup_style.css">
 <?php if(!empty($_SESSION['success'])) {  ?>
