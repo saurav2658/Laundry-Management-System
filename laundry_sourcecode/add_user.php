@@ -166,6 +166,4 @@
 
 <?php include('footer.php');?>
 
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
 
