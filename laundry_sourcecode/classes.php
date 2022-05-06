@@ -5,8 +5,7 @@
 
 
 <style>
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
+
 .button {
   margin-bottom: 4px;
   padding: 8px 12px;
