@@ -94,8 +94,7 @@
   </div>
   </div>
 
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
+
   <div class="form-group">
   <div class="row">
   <label class="col-sm-3 control-label">Discription</label>
@@ -160,11 +159,7 @@ PHP, Laravel and Codeignitor Developer -->
 
   <?php include('footer.php');?>
 
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
 
-<!--  Author Name: Nikhil Bhalerao - www.nikhilbhalerao.com 
-PHP, Laravel and Codeignitor Developer -->
 
 <script>
   function s() {
