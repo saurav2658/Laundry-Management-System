@@ -1,5 +1,6 @@
 # Laundry-Management-System
-project
+Project
+
 Login Page
 ![image](https://user-images.githubusercontent.com/70282840/167261314-3b535dd5-e57c-4844-9d0b-200953aa4626.png)
 
